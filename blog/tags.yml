@@ -1,0 +1,79 @@
+facebook:
+  label: Facebook
+  permalink: /facebook
+  description: Facebook tag description
+
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+hola:
+  label: Hola
+  permalink: /hola
+  description: Hola tag description
+
+zkp:
+  label: ZKP
+  permalink: /zkp
+  description: ZKP tag description
+
+compliance:
+  label: Compliance
+  permalink: /compliance
+  description: Compliance tag description
+
+finance:
+  label: Finance
+  permalink: /finance
+  description: Finance tag description
+
+security:
+  label: Security
+  permalink: /security
+  description: Security tag description
+
+blockchain:
+  label: Blockchain
+  permalink: /blockchain
+  description: Topics related to blockchain technology, decentralized systems, and cryptographic security.
+
+DeFi:
+  label: DeFi
+  permalink: /defi
+  description: Decentralized Finance (DeFi) topics, including smart contracts, lending, and decentralized exchanges.
+
+interoperability:
+  label: Interoperability
+  permalink: /interoperability
+  description: Cross-chain compatibility and interoperability solutions for blockchain networks.
+
+scalability:
+  label: Scalability
+  permalink: /scalability
+  description: Techniques and protocols to improve blockchain scalability and efficiency.
+
+performance:
+  label: Performance
+  permalink: /performance
+  description: Optimizing blockchain and cryptographic algorithms for high-performance execution.
+
+privacy:
+  label: Privacy
+  permalink: /privacy
+  description: Zero-knowledge proofs, confidential transactions, and privacy-preserving technologies.
+
+AI:
+  label: AI
+  permalink: /ai
+  description: Artificial intelligence topics related to zero-knowledge proofs and explainability.
+
+authentication:
+  label: Authentication
+  permalink: /authentication
+  description: Secure authentication mechanisms using zero-knowledge proofs and cryptographic methods.
