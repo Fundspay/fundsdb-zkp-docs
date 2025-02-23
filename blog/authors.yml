@@ -1,0 +1,24 @@
+fundsdb-team:
+  name: Fundsroom Investment Services
+  title: Fintech Company
+  url: https://github.com/Fundspay
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    x: yangshunz
+    github: https://github.com/Fundspay
+    linkedin: https://www.linkedin.com/company/fundsroom
+
+# slorber:
+#   name: Nikitha Vatpal
+#   title: Docusaurus maintainer
+#   url: https://sebastienlorber.com
+#   image_url: https://github.com/slorber.png
+#   page:
+#     # customize the url of the author page at /blog/authors/<permalink>
+#     permalink: '/all-sebastien-lorber-articles'
+#   socials:
+#     x: sebastienlorber
+#     linkedin: sebastienlorber
+#     github: slorber
+#     newsletter: https://thisweekinreact.com
